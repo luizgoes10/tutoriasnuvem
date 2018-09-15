@@ -1,0 +1,5 @@
+https://cloud.google.com/docs/tutoriais
+
+https://aws.amazon.com/pt/elasticbeanstalk/getting-starded/
+
+https://docs.microsoft.com/en-us/azure/app-service/
